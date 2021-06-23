@@ -8,3 +8,4 @@
 * [System Design: Distributed Systems](https://leetcode.com/discuss/general-discussion/1105898/system-design-introduction-to-distributed-systems-designing-a-highly-available-system)
 * [14 patterns to ace any technical interview - HackerNoon artic](https://leetcode.com/discuss/general-discussion/1105898/system-design-introduction-to-distributed-systems-designing-a-highly-available-system)
 * [Dsa Path](https://leetcode.com/discuss/interview-experience/1264757/microsoft-github-fb-etc-interview-preparation-journeystrategy)
+* [Topic-wise-problems-for-Beginners](https://leetcode.com/discuss/career/448024/Topic-wise-problems-for-Beginners)
