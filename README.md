@@ -1,4 +1,4 @@
-**Important and useful links to help you ace problem solving**
+#Important and useful links to help you ace problem solving
 
 * [LeetCode Important Articles](https://leetcode.com/discuss/general-discussion/665604/Important-and-Useful-links-from-all-over-the-LeetCode)
 * [Sorting Algorithms](https://leetcode.com/discuss/general-discussion/1091763/must-do-all-required-sorting-algorithms-complete-guide)
