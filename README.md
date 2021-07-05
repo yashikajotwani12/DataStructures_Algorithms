@@ -15,6 +15,6 @@ ___
 * [Leetcode-mock-interview-video-series-5-steps-to-handle-a-coding-interview](https://leetcode.com/discuss/study-guide/1293297/mock-interview-video-series-5-steps-to-handle-a-coding-interview)
 
 ---
-#Covering Amazon Interview Questions.
+# Covering Amazon Interview Questions.
 
 Link: https://drive.google.com/file/d/1vYbnvxXKpN2UnaV8QwvM5yZkXXZiOQXg/view?usp=sharing
