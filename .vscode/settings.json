@@ -3,6 +3,7 @@
         "iostream": "cpp",
         "ios": "cpp",
         "vector": "cpp",
-        "bitset": "cpp"
+        "bitset": "cpp",
+        "algorithm": "cpp"
     }
 }
