@@ -33,23 +33,36 @@ using namespace std;
 
 int main()
 {
+    
     int t;
-    int w,h,n;
     cin>>t;
-    int x[40010],y[40010];
     while(t--)
     {
+        int w,h,n;
         cin>>w>>h>>n;
+        vector<int>a;
+        vector<int>b;
+        a.push_back(0);
+        b.push_back(0);
         for(int i=0;i<n;i++)
         {
-            cin>>x[i]>>y[i];
-
+            int x,y;
+            cin>>x>>y;
+            a.push_back(x);
+            b.push_back(y);
         }
-        // sorting
-        sort(x,x+n);
-        sort(y,y+n);
-
-        // delta x and delta y
+        a.push_back(w+1);
+        b.push_back(h+1);
+        sort(a.begin(),a.end());
+        sort(b.begin(),b.end());
+        int mx=0;
+        int my=0;
+        for(int i=0;i<a.size();i++)
+        {
+            mx = max(mx, a[i+1]-a[i]-1);
+            my = max(my, b[i+1]-b[i]-1);
+        }
+        cout<<mx*my<<endl;;
 
     }
 }
