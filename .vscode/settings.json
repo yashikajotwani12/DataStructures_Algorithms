@@ -4,6 +4,7 @@
         "ios": "cpp",
         "vector": "cpp",
         "bitset": "cpp",
-        "algorithm": "cpp"
+        "algorithm": "cpp",
+        "unordered_map": "cpp"
     }
 }
