@@ -2,12 +2,17 @@
 using namespace std;
 class graph{
     public:
+    int n;
+    graph(int n)
+    {   
+        this->n=n;
+    }
     unordered_map<int,vector<pair<int,int>>>mp;
     void addEdge(int u,int v, int w)
     {
         mp[u].push_back(make_pair(v,w));
     }
-    void toposort(int node, vector<int>vis, stack<int>&st)
+    void toposort(int node, vector<int>&vis, stack<int>&st)
     {
         vis[node]=1;
         for(auto it: mp[node])
@@ -22,7 +27,7 @@ class graph{
 
     void shortestPath(int src)
     {
-        int n= mp.size();
+        
         vector<int>vis(n,0);
         stack<int>st;
         for(int i=0;i<n;i++)
@@ -34,7 +39,7 @@ class graph{
         }
 
 
-        vector<int>dis(n,-1);
+        vector<int>dis(n,INT16_MAX);
         dis[src]=0;
         while(!st.empty())
         {
@@ -62,7 +67,8 @@ class graph{
 };
 int main()
 {
-    graph g;
+    graph g(6);
+
     unordered_map<int,vector<pair<int,int>>>mp;
     g.addEdge(0,1,5);
     g.addEdge(0, 2, 3);
@@ -76,7 +82,7 @@ int main()
 
 	
 
-	g.shortestPath(0); 
+	g.shortestPath(1); 
 
 	return 0; 
 }
