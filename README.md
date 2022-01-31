@@ -10,6 +10,7 @@
 * [Dsa Path](https://leetcode.com/discuss/interview-experience/1264757/microsoft-github-fb-etc-interview-preparation-journeystrategy)
 * [Topic-wise-problems-for-Beginners](https://leetcode.com/discuss/career/448024/Topic-wise-problems-for-Beginners)
 * [Guide to Behavioral round](https://leetcode.com/discuss/interview-question/1729926/a-guide-for-behavioral-round)
+* [Interview Prep](https://leetcode.com/discuss/study-guide/1691931/beginners-guide-on-interview-preparation)
 
 ___
 
