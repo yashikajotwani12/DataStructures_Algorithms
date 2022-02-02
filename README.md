@@ -11,6 +11,7 @@
 * [Topic-wise-problems-for-Beginners](https://leetcode.com/discuss/career/448024/Topic-wise-problems-for-Beginners)
 * [Guide to Behavioral round](https://leetcode.com/discuss/interview-question/1729926/a-guide-for-behavioral-round)
 * [Interview Prep](https://leetcode.com/discuss/study-guide/1691931/beginners-guide-on-interview-preparation)
+* [Best Medium Article](https://automationhacks.medium.com/how-i-got-that-job-at-meta-72151625560a)
 
 ___
 
