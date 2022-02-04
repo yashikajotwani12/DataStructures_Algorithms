@@ -12,6 +12,8 @@
 * [Guide to Behavioral round](https://leetcode.com/discuss/interview-question/1729926/a-guide-for-behavioral-round)
 * [Interview Prep](https://leetcode.com/discuss/study-guide/1691931/beginners-guide-on-interview-preparation)
 * [Best Medium Article](https://automationhacks.medium.com/how-i-got-that-job-at-meta-72151625560a)
+* [All-about-Bitwise-Operations-Beginner-Intermediate](https://leetcode.com/discuss/general-discussion/1073221/All-about-Bitwise-Operations-Beginner-Intermediate)
+* [DP-for-Beginners-Problems-or-Patterns-or-Sample-Solutions](https://leetcode.com/tag/dynamic-programming/discuss/662866/DP-for-Beginners-Problems-or-Patterns-or-Sample-Solutions)
 
 ___
 
