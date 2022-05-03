@@ -26,4 +26,20 @@ ___
 
 Link: https://drive.google.com/file/d/1vYbnvxXKpN2UnaV8QwvM5yZkXXZiOQXg/view?usp=sharing
 
+---
+# Resource [Google]
+
+* [Help and Resource](https://medium.com/nerd-for-tech/googles-interview-preparation-routine-be6647910a5b)
+* [Google Interview Experience SDE-1 (Off-Campus) 2022](https://www.geeksforgeeks.org/google-interview-experience-sde-1-off-campus-2022/)
+* Hot Topics
+   - Binary Search - Work this out. Understand how and why Binary Search can be applied in such kind of problems. Refer to this amazing post
+   - Dynamic Programming - Try House Robber, Min Cost. See how does DP fit here
+   - Graph - Solve this (and this) Make sure to analyse time and space complexity of your algorithm
+   - Tree - Try this out
+   - An additional interesting problem.
+
+* [Google Online Assessment Questions](https://leetcode.com/discuss/interview-question/352460/Google-Online-Assessment-Questions)
+
+
+
 
