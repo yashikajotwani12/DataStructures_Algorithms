@@ -41,5 +41,48 @@ Link: https://drive.google.com/file/d/1vYbnvxXKpN2UnaV8QwvM5yZkXXZiOQXg/view?usp
 * [Google Online Assessment Questions](https://leetcode.com/discuss/interview-question/352460/Google-Online-Assessment-Questions)
 
 
+# Most Popular Problems for Google (last 6 months):
+
+ * Minimum Difference Between Largest and Smallest Value in Three Moves (35 times): https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/
+ * Guess the Word (32 times): https://leetcode.com/problems/guess-the-word/
+ * Logger Rate Limiter (31 times): https://leetcode.com/problems/logger-rate-limiter/ 
+ * Asteroid Collision (30 times): https://leetcode.com/problems/asteroid-collision/ 
+ * Longest String Chain (28 times): https://leetcode.com/problems/longest-string-chain/
+ * Number of Good Ways to Split a String (23 times): https://leetcode.com/problems/number-of-good-ways-to-split-a-string/ 
+ * Count Square Submatrices with All Ones (22 times): https://leetcode.com/problems/count-square-submatrices-with-all-ones/
+ * Shortest Path in a Grid with Obstacles Elimination (20 times): https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/ 
+ * Employee Importance (19 times): https://leetcode.com/problems/employee-importance/ 
+ * Maximum Points You Can Obtain from Cards (19 times): https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/ 
+ * Number of Matching Subsequences (17 times): https://leetcode.com/problems/number-of-matching-subsequences/
+ * Delete Nodes And Return Forest (17 times): https://leetcode.com/problems/delete-nodes-and-return-forest/ 
+ * Find And Replace in String (16 times): https://leetcode.com/problems/find-and-replace-in-string/ 
+ * Time Based Key-Value Store (15 times): https://leetcode.com/problems/time-based-key-value-store/
+ * Merge Intervals (15 times): https://leetcode.com/problems/merge-intervals/ 
+ * Bulls and Cows (14 times): https://leetcode.com/problems/bulls-and-cows/
+ * Decode String (12 times): https://leetcode.com/problems/decode-string/ 
+ * Longest Substring Without Repeating Characters (12 times): https://leetcode.com/problems/longest-substring-without-repeating-characters/
+ * Median of Two Sorted Arrays (12 times): https://leetcode.com/problems/median-of-two-sorted-arrays/ 
+ * Flip Equivalent Binary Trees (11 times): https://leetcode.com/problems/flip-equivalent-binary-trees/ 
+ * Add Two Numbers (11 times): https://leetcode.com/problems/add-two-numbers/ 
+ * Sentence Screen Fitting (11 times): https://leetcode.com/problems/sentence-screen-fitting/ 
+ * Car Fleet (10 times): https://leetcode.com/problems/car-fleet/ 
+ * Koko Eating Bananas (10 times): https://leetcode.com/problems/koko-eating-bananas/
+ * RLE Iterator (10 times): https://leetcode.com/problems/rle-iterator/ 
+ * Longest Increasing Path in a Matrix (10 times): https://leetcode.com/problems/longest-increasing-path-in-a-matrix/
+ * Stone Game III (9 times): https://leetcode.com/problems/stone-game-iii/
+ * Maximum Number of Points with Cost (9 times): https://leetcode.com/problems/maximum-number-of-points-with-cost/
+ * Max Value of Equation (9 times): https://leetcode.com/problems/max-value-of-equation/ 
+ * Longest Increasing Subsequence (9 times): https://leetcode.com/problems/longest-increasing-subsequence/ 
+ * Maximum Subarray (8 times): https://leetcode.com/problems/maximum-subarray/
+ *  Robot Room Cleaner (8 times): https://leetcode.com/problems/robot-room-cleaner/ 
+ * 3Sum (8 times): https://leetcode.com/problems/3sum/ 
+ * Longest Line of Consecutive One in Matrix (8 times): https://leetcode.com/problems/longest-line-of-consecutive-one-in-matrix/ 
+ * Array of Doubled Pairs (8 times): https://leetcode.com/problems/array-of-doubled-pairs/ 
+ * Car Fleet II (8 times): https://leetcode.com/problems/car-fleet-ii/ 
+ * 01 Matrix (8 times): https://leetcode.com/problems/01-matrix/
+ * Minimum Number of Refueling Stops (8 times): https://leetcode.com/problems/minimum-number-of-refueling-stops/
+ * Pacific Atlantic Water Flow (7 times): https://leetcode.com/problems/pacific-atlantic-water-flow/
+
+
 
 
