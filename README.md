@@ -86,4 +86,8 @@ Link: https://drive.google.com/file/d/1vYbnvxXKpN2UnaV8QwvM5yZkXXZiOQXg/view?usp
 
 
 
-
+## Amazon [everything to prep for]
+* https://leetcode.com/discuss/interview-experience/1100618/Amazon-or-SDE-2-or-Offer-or-London/884366
+* https://www.amazon.jobs/en/software-development-interview-prep?cmpid=ECOTOT700005B#/lessons/Fbo1d1Ic_SawawI-Q2tEKsf-PC82NqXR
+* https://www.principle.cards/
+* https://leetcode.com/discuss/interview-experience/1886061/amazon-sde-new-grad-london-march-2022-indian-offer
